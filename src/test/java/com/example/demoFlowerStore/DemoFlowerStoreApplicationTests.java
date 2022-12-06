@@ -1,13 +1,13 @@
-package com.example.demoFlowerStore;
+// package com.example.demoFlowerStore;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class DemoFlowerStoreApplicationTests {
+// @SpringBootTest
+// class DemoFlowerStoreApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
